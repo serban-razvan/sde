@@ -1,2 +1,1 @@
-# sde
-Systemes d'Explotations
+# Systemes d'Explotations
